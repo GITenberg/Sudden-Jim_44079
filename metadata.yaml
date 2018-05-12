@@ -1,0 +1,30 @@
+_repo: Sudden-Jim_44079
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44079-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kelland, Clarence Budington
+    alias: Kelland, Clarence B.
+    birthdate: 1881
+    deathdate: 1964
+    gutenberg_agent_id: '4987'
+    url: http://www.gutenberg.org/2009/agents/4987
+description: ''
+gutenberg_issued: '2013-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcc 'PS'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Industrialists -- Fiction'
+- !lcsh 'Michigan -- Fiction'
+title: Sudden Jim
+url: http://www.gutenberg.org/ebooks/44079
